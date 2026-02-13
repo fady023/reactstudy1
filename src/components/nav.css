@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3%;
+    font-size: 24px;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    /* gap:9%; */
+    width: 30%;
+}
+
+a{
+    text-decoration: none;
+    color: lightblue;
+
+}
+
